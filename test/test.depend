@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\david\desktop\cs\third year\first semester\cosc 325 data structures\assignment\test\main.cpp
+	<iostream>
+
+1676271571 source:c:\users\david\desktop\cs\third year\first semester\cosc 325 data structures\assignment\test\test.c
+	<stdio.h>
+
+1676271650 source:c:\users\david\desktop\cs\third year\first semester\cosc 325 data structures\assignment\test\test.cpp
+	<iostream>
+
